@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aham21bz
-- 👀 I’m interested in Web developer .NET
-- 🌱 I’m currently learning Web developer .NET
+- 👋 Hi, I’m Amer Ahmed
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Python Software Engineer specializing in AI & ML as well as Data Science
 - 💞️ I’m looking to collaborate on Python and Net core community
-- 📫 How to reach me at aham21bz@student.ju.se.
+- 📫 How to reach me at https://www.linkedin.com/in/amer-a-334948a8/
 
 <!---
-aham21bz/aham21bz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[aham21bz/aham21bz](https://www.linkedin.com/in/amer-a-334948a8/) is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
