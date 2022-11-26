@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amer Ahmed
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Python Software Engineer specializing in AI & ML as well as Data Science
-- 💞️ I’m looking to collaborate on Python and Net core community
+- 💞️ I’m looking to collaborate on Python core community
 - 📫 How to reach me at https://www.linkedin.com/in/amer-a-334948a8/
 
 <!---
